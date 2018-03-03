@@ -84,6 +84,7 @@ class TestIntegralOnBorder(unittest.TestCase):
         val_tri2 = [-2, 3, 1]
         val_tri3 = [3, 1, -2]
         electrode = [10, 10, 1]
+
         R = 1
         gi = 0.5
 

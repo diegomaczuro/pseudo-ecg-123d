@@ -67,6 +67,7 @@ class IntegralOnLine():
 
 
 
+
     def integr_on_border(self, x1, y1, z1, x2, y2, z2, v1, v2):
         x_mid = (x1 + x2) / 2.
         y_mid = (y1 + y2) / 2.
